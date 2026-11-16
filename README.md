@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Stress
+
+**Embryo Stress** is Embryo-Zero's fork of [CalculiX](https://github.com/Dhondtguido/CalculiX), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 
 CalculiX: A Three-Dimensional Structural Finite Element Program
 
